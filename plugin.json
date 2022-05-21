@@ -1,0 +1,33 @@
+{
+  "slug": "Myth",
+  "name": "Myth",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Myth",
+  "author": "Pavlo Yevsehnieiev",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Mavka",
+      "name": "Mavka",
+      "description": "Oscillator with VCA per waveform",
+      "tags": [
+        "Oscillator"
+      ]
+    },
+    {
+      "slug": "Molphar",
+      "name": "Molphar",
+      "description": "Generative sequencer",
+      "tags": [
+        "Sequencer"
+      ]
+    }
+  ]
+}
