@@ -2,15 +2,15 @@
   "slug": "Myth",
   "name": "Myth",
   "version": "2.0.0",
-  "license": "proprietary",
+  "license": "GPL-3.0-or-later",
   "brand": "Myth",
   "author": "Pavlo Yevsehnieiev",
-  "authorEmail": "",
+  "authorEmail": "p.yevsehnieiev@gmail.com",
   "authorUrl": "",
   "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
-  "donateUrl": "",
+  "manualUrl": "https://github.com/Ahineya/vcv-myth-plugin/README.md",
+  "sourceUrl": "https://github.com/Ahineya/vcv-myth-plugin",
+  "donateUrl": "https://www.buymeacoffee.com/pavlodev",
   "changelogUrl": "",
   "modules": [
     {
@@ -24,7 +24,7 @@
     {
       "slug": "Molphar",
       "name": "Molphar",
-      "description": "Generative sequencer",
+      "description": "Sequencer with probabilities",
       "tags": [
         "Sequencer"
       ]
