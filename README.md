@@ -13,6 +13,8 @@ Under the sequence rows, there is a row of probability controls.
 Each probability knob sets the probability for the corresponding step in each sequence. Probabilities can be controlled
 via CV inputs as well — if there is a CV in the input, then the corresponding knob controls nothing.
 
+Probability inputs expect the value from 0 to +1V. I may change it to work within the 0..10V later, since it seems logical to do.
+
 The light near the step will turn on if the step is active. If the step is current but not active because of probability,
 the light will be red; otherwise green. If the step is not active, the corresponding output will be outputting
 CV from the previously active step.
